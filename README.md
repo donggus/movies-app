@@ -15,9 +15,7 @@
 
 ### Start iOS App
 
-- `cd ios`
-- `pod install`
-- `cd ..`
+- `npx pod-install`
 - `yarn ios`
 
 ### Start Android App
