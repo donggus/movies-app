@@ -1,6 +1,6 @@
-# Instalación
+# Installation
 
-## Requeriments
+## Requirements
 
 - Cocoapods
 - Node / npm
